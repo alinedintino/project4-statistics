@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Descriptive Statistics and Inferential Statistics
+*Aline D'Intino, Codruta Merticaru*
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics, Amsterdam October 2020*
 
 ## Content
 - [Project Description](#project-description)
@@ -40,4 +40,4 @@ Include relevant links (that point to google drive or data sources) to your repo
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/SmEpjACd/project-4-aline-codruta)  
