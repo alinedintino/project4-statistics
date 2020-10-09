@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Descriptive Statistics and Inferential Statistics
+# Descriptive and Inferential Statistics
 *Aline D'Intino, Codruta Merticaru*
 
 *Data Analytics, Amsterdam October 2020*
