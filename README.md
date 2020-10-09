@@ -38,6 +38,6 @@ What does your repository look like? Explain your folder and file structure.
 ## Links
 Include relevant links (that point to google drive or data sources) to your repository, slides, data, database, ERD, and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/alinedintino/project4-statistics)  
 [Slides](https://slides.com/)  
 [Trello](https://trello.com/b/SmEpjACd/project-4-aline-codruta)  
