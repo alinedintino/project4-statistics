@@ -33,7 +33,7 @@ Are the suicides levels higher than the deaths in conflict levels? are there reg
 What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
 
 ## Workflow
-Steps for the project:
+[Steps for the project:]
 Create Trello board with plan
 Research the topic and find relevant datasets
 Create potential hypothesis 
