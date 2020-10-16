@@ -19,7 +19,10 @@
 Reading in Homo Deus, the book by Yuval Noah Harari, the statement “War is obsolete; you are more likely to commit suicide than be killed in conflict...”, we found this statement interesting and wanted to deep dive into the data and understand whether the statement holds or not and to check if the author statement could be statistically proven.
 
 ## Questions & Hypotheses
-Are the suicides levels higher than the deaths in conflict levels? are there regions or countries where that is not the case? are suicides levels among genders different? or suicide levels among different age groups?
+- Are the suicides levels higher than the deaths in conflict levels? 
+- are there regions or countries where that is not the case?
+- are suicides levels among genders different?
+- or suicide levels among different age groups?
 
 ## Dataset
 - What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
@@ -34,17 +37,21 @@ What is the structure of your database? Have you created more than one table and
 
 ## Workflow
 Steps for the project:
-Create Trello board with plan
-Research the topic and find relevant datasets
-Create potential hypothesis 
-Data cleaning and data wrangling
-Code for hypothesis testing
-Putting together the information from the analysis into the presentation
+- Create Trello board with plan
+- Research the topic and find relevant datasets
+- Create potential hypothesis 
+- Data cleaning and data wrangling
+- Code for hypothesis testing
+- Putting together the information from the analysis into the presentation
 
 ## Organization
 Trello board was used for tracking the plan and work done
 
-What does your repository look like? Data folder, gitignore file, readme file, analysis files.
+What does your repository look like?
+- Data folder
+- gitignore file
+- readme file
+- analysis files.
 
 ## Links
 Include relevant links (that point to google drive or data sources) to your repository, slides, data, database, ERD, and kanban board. Feel free to include any other links associated with your project.
