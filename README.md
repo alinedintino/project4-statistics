@@ -15,28 +15,44 @@
 - [Links](#links)
 
 
+
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+Reading in Homo Deus, the book by Yuval Noah Harari, the statement “War is obsolete; you are more likely to commit suicide than be killed in conflict...”, we found this statement interesting and wanted to deep dive into the data and understand whether the statement holds or not and to check if the author statement could be statistically proven.
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+- Are the suicides levels higher than the deaths in conflict levels? 
+- are there regions or countries where that is not the case?
+- are suicides levels among genders different?
+- or suicide levels among different age groups?
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
+- What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
+- Deaths in conflict - ged201 dataset from Uppsala Conflict Data Program https://ucdp.uu.se/ 
+- Deaths in conflict dataset explanation in https://ucdp.uu.se/downloads/ged/ged201.pdf Years between 1989 and 2019, deaths on either sides of a conflict, as well as civilian deaths and unknown deaths.
+- Suicides rates overview from Kaggle - dataset with data between 1989 and 2016. 
+- Suicides dataset shows country, age group, gender, generation
+
 
 ## Database
 What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+Steps for the project:
+- Create Trello board with plan
+- Research the topic and find relevant datasets
+- Create potential hypothesis 
+- Data cleaning and data wrangling
+- Code for hypothesis testing
+- Putting together the information from the analysis into the presentation
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+Trello board was used for tracking the plan and work done
 
-What does your repository look like? Explain your folder and file structure.
-
-## Links
-Include relevant links (that point to google drive or data sources) to your repository, slides, data, database, ERD, and kanban board. Feel free to include any other links associated with your project.
+What does your repository look like?
+- Data folder
+- gitignore file
+- readme file
+- analysis files.
 
 [Repository](https://github.com/alinedintino/project4-statistics)  
 [Slides](https://slides.com/)  
