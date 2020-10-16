@@ -22,18 +22,18 @@ Reading in Homo Deus, the book by Yuval Noah Harari, the statement “War is obs
 Are the suicides levels higher than the deaths in conflict levels? are there regions or countries where that is not the case? are suicides levels among genders different? or suicide levels among different age groups?
 
 ## Dataset
--What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
--Deaths in conflict - ged201 dataset from Uppsala Conflict Data Program https://ucdp.uu.se/ 
--Deaths in conflict dataset explanation in https://ucdp.uu.se/downloads/ged/ged201.pdf Years between 1989 and 2019, deaths on either sides of a conflict, as well as civilian deaths and unknown deaths.
--Suicides rates overview from Kaggle - dataset with data between 1989 and 2016. 
--Suicides dataset shows country, age group, gender, generation
+*What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
+*Deaths in conflict - ged201 dataset from Uppsala Conflict Data Program https://ucdp.uu.se/ 
+*Deaths in conflict dataset explanation in https://ucdp.uu.se/downloads/ged/ged201.pdf Years between 1989 and 2019, deaths on either sides of a conflict, as well as civilian deaths and unknown deaths.
+*Suicides rates overview from Kaggle - dataset with data between 1989 and 2016. 
+*Suicides dataset shows country, age group, gender, generation
 
 
 ## Database
 What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
 
 ## Workflow
-[Steps for the project:]
+Steps for the project:
 Create Trello board with plan
 Research the topic and find relevant datasets
 Create potential hypothesis 
