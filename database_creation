@@ -1,0 +1,23 @@
+CREATE DATABASE Project_4;
+USE Project_4;
+CREATE TABLE Suicides (
+    idSuicides int NOT NULL UNIQUE AUTO_INCREMENT,
+    Country VARCHAR(45),
+    year INT,
+    Sex VARCHAR(45),
+	Age VARCHAR(45),
+    Suicides_no INT,
+    Population INT,
+    Suicides_100kpop INT,
+    Generation VARCHAR(45),
+    PRIMARY KEY (idSuicides));
+CREATE TABLE Conflict (
+    idConflict int NOT NULL UNIQUE AUTO_INCREMENT,
+    year INT,
+    country VARCHAR(45),
+    region VARCHAR(45),
+    deaths_a INT,
+    deaths_b INT,
+    deaths_civilians INT,
+    deaths_unknown INT,
+    PRIMARY KEY (idConflict))
