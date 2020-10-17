@@ -35,6 +35,7 @@ Reading in Homo Deus, the book by Yuval Noah Harari, the statement “War is obs
 
 ## Database
 What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
+- Database has 2 tables, 1 Suicides table and 1 Conflict table. They are not connected with each other. The ERD Design is available in the repository.
 
 ## Workflow
 Steps for the project:
